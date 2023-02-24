@@ -63,7 +63,7 @@ a, a:hover {
 }
 
 .logo h1, .logo h1:hover {
-    font: normal 300% "centry-gothic", sans-serif;
+    font: normal 300% "century-gothic", sans-serif;
     color: #003300;
     margin: 0 0 0 9px;
     letter-spacing: 0.1em;
@@ -89,7 +89,7 @@ a, a:hover {
 }
 
 .menu li a {
-    font: bold 150% 'comic sans', sans-serif;
+    font: bold 150% 'century-gothic', sans-serif;
     display: block;
     height: 20px;
     padding: 6px 35px 6px 28px;
@@ -310,7 +310,6 @@ a, a:hover {
     color: red;
     transition: all 0.5s ease-in-out;
     scale: 1.5;
-    transform: translateX(-150px);
 }
 
 .other_author .sub {
@@ -321,7 +320,7 @@ a, a:hover {
 
 .other_author .sub:hover {
     scale: 1.5;
-    transform: translateX(100px);
+    transform: translateX(300px);
 }
 
 .other_poems {
@@ -332,7 +331,7 @@ a, a:hover {
 
 .other_poems h2 {
     text-decoration: none;
-    font: normal 200% 'centry-gothic', arial;
+    font: normal 200% 'century-gothic', arial;
     font-weight: bold;
     color: #003300;
 }
@@ -347,7 +346,7 @@ a, a:hover {
 }
 
 .other_poem_content {
-    font: normal 100% 'comic sans', sans-serif;
+    font: normal 100% 'century-gothic', sans-serif;
     color: #003300;
 }
 
@@ -374,7 +373,7 @@ a, a:hover {
 
 .other_poem_content .read_more {
     display: inline-block;
-    font: normal 140% 'centry-gothic', arial;
+    font: normal 140% 'century-gothic', arial;
     font-weight: bold;
     outline: none;
     text-decoration: none;
