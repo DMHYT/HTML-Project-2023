@@ -4,14 +4,9 @@
     font-family: cursive;
 }
 
-body {
-    width: 100%;
-    height: 100%;
-}
-
 .main {
     background-color: #abc1e8;
-    margin: auto;
+    min-width: 1500px;
 }
 
 input[type="search"], input[type="text"], input[type="password"] {
